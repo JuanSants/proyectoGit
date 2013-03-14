@@ -23,13 +23,13 @@ public class GitAux {
 	//Comentario Incluido para pruebas
         System.out.println("Aqui escribimos todos");
 	// modificacaciones alumno 2
-	System.out.println("Alumno 2 inserta esta sentencia");
+	System.out.println("Alumno 1 inserta esta sentencia");
+
+
     }
 
     public void testGitAux(){
      // metodo rama testing
        System.out.println("Metodo de testing");
-	//modificaciones alumno 1
-	System.out.println("Alumno 1 inserta esta sentencia");
-}
+	}
 }
